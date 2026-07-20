@@ -13,7 +13,7 @@
     "control_panel_message_id": null
   },
   "member_logs": {
-    "enabled": false,
+    "enabled": true,
     "channel_id": null,
     "log_leave": false,
     "log_kick": false,
