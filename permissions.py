@@ -64,9 +64,6 @@ def has_global_access(member) -> bool:
     except Exception:
         pass
 
-    # override role always allowed
-    if any(getattr(r, "id", None) == OVERRIDE_ROLE_ID for r in getattr(member, "roles", [])):
-        return True
 
     settings = load_settings()
     allowed = set(settings.get("global_allowed_roles", []))
