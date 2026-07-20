@@ -1,7 +1,11 @@
 {
-  "warnings": {},
-  "last_reset": "2026-01-19T00:18:52.121923",
-  "extra_var": 123,
-  "blocked_warners": [],
-  "ffa_enabled": true
+    "warnings": {
+        "1528874500119068802": [
+            "being a cunt"
+        ]
+    },
+    "last_reset": "2026-01-19T00:18:52.121923",
+    "extra_var": 123,
+    "blocked_warners": [],
+    "ffa_enabled": true
 }
