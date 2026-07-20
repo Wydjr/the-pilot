@@ -17,12 +17,6 @@ GITHUB_FILE_PATH = "warnings.json"
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 HEADERS = {"Authorization": f"token {GITHUB_TOKEN}"} if GITHUB_TOKEN else {}
 
-# ------------------- Roles (logic roles, not permissions) -------------------
-PASSENGERS_ROLE_ID = 1404100554807971971
-WILLIAM_ROLE_ID = 1413545658006110401
-SAZZLES_ROLE_ID = 1404104881098195015
-KD_ROLE_ID = 1420817462290681936  # KD can warn Sazzles (RESTRICTED ONLY)
-
 # ------------------- Default JSON structure -------------------
 DEFAULT_DATA = {
     "warnings": {},
