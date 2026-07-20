@@ -191,7 +191,7 @@ class WelcomeSystem:
         )
 
         embed.set_footer(
-            text=f"You landed as passenger #{count} ✈️ | Today at {now}"
+            text=f"You landed as member #{count} ✈️ | Today at {now}"
         )
 
         imgs = w.get("arrival_images") or []
