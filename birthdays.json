@@ -1,0 +1,34 @@
+{
+  "settings": {
+    "enabled": true,
+    "announce": true,
+    "post_hour": 0,
+    "post_minute": 0,
+    "message_header": "🎂 Birthday Celebrations!",
+    "message_single": "Happy Birthday **{username}** - hope you have the best most magical day ever and all your wishes come true!! 🎂🎉🎁🎈",
+    "message_multiple": "{count} Birthdays today!!\n\nHappy Birthday **{usernames}** - hope you have the best most magical day ever and all your wishes come true!! 🎂🎉🎁🎈",
+    "image_urls": [
+      "https://y.yarn.co/828d9cd5-f764-4d22-be7d-f68081e2411d_text.gif",
+      "https://i.pinimg.com/originals/58/ee/7c/58ee7cf98c50002d1af055a407ae4d62.gif",
+      "https://gifdb.com/images/high/dragon-ball-anime-happy-birthday-f29kc7017ak8p3wm.gif",
+      "https://media.tenor.com/RVldndwl2CMAAAAM/pikachu-hbd.gif",
+      "https://media.tenor.com/Egxl8TRxwT4AAAAM/happy-birthday-anya.gif",
+      "https://media.tenor.com/wVpYX_0oDSIAAAAM/one-piece-birthday.gif",
+      "https://gifsec.com/wp-content/uploads/2022/11/happy-birthday-anime-gif-10.gif",
+      "https://media.tenor.com/vm92XzEklHkAAAAM/happy-japanese-anime.gif",
+      "https://i.pinimg.com/originals/a2/59/df/a259dfb193146fef294b9c327aa29c1f.gif"
+    ],
+    "embed": {
+      "enabled": true,
+      "title": "🎉 Birthday Time!",
+      "description": "{message}",
+      "color": 16738740,
+      "images": []
+    }
+  },
+  "birthdays": {},
+  "state": {
+    "announced_keys": [],
+    "role_assigned_keys": []
+  }
+}
