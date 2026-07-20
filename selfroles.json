@@ -8,7 +8,15 @@
     "humans": [],
     "bots": []
   },
-  "categories": {},
+  "categories": {
+    "test": {
+      "title": "Kitties",
+      "description": "",
+      "emoji": "😽",
+      "multi_select": true,
+      "roles": {}
+    }
+  },
   "selfroles_message_id": null,
   "requests_channel_id": null,
   "role_requests": {},
