@@ -1403,7 +1403,7 @@ class RequestCompleteView(discord.ui.View):
 
         if user:
             try:
-                await user.send(f"✅ Your request for **{role_name}** has been marked complete. Visit #self-roles to assign the role.")
+                await user.send(f"✅ Your request for **{role_name}** has been marked complete. Go to the role selector to assign the role, or contact an admin.")
             except Exception:
                 pass
 
