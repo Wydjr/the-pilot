@@ -26,6 +26,14 @@
   },
   "selfroles_message_id": 1528909326704709655,
   "requests_channel_id": 1489661500581871796,
-  "role_requests": {},
+  "role_requests": {
+    "1528909999559147647": {
+      "user_id": 1238834298338152498,
+      "role_type": "cosmetic",
+      "role_name": "pumpkin",
+      "colour": "orange",
+      "icon": "🎃"
+    }
+  },
   "role_request_instructions": ""
 }
