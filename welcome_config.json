@@ -1,0 +1,33 @@
+{
+  "welcome": {
+    "enabled": false,
+    "welcome_channel_id": null,
+    "title": "",
+    "description": "",
+    "channels": {},
+    "arrival_images": [],
+    "bot_add": {
+      "enabled": false,
+      "channel_id": null
+    },
+    "control_panel_message_id": null
+  },
+  "member_logs": {
+    "enabled": false,
+    "channel_id": null,
+    "log_leave": false,
+    "log_kick": false,
+    "log_ban": false
+  },
+  "boost": {
+    "enabled": false,
+    "channel_id": null,
+    "title": "",
+    "messages": {
+      "single": "",
+      "double": "",
+      "tier": ""
+    },
+    "images": []
+  }
+}
