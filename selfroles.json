@@ -14,7 +14,12 @@
       "description": "",
       "emoji": "😽",
       "multi_select": true,
-      "roles": {}
+      "roles": {
+        "1489676349965733943": {
+          "label": "bots",
+          "emoji": null
+        }
+      }
     }
   },
   "selfroles_message_id": null,
