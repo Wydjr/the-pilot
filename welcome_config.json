@@ -15,7 +15,7 @@
   "member_logs": {
     "enabled": true,
     "channel_id": 1489661500581871796,
-    "log_leave": false,
+    "log_leave": true,
     "log_kick": false,
     "log_ban": false
   },
