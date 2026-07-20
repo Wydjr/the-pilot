@@ -2,7 +2,7 @@
   "selfroles_channel_id": 1505633001432678480,
   "logging": {
     "enabled": true,
-    "channel_id": null
+    "channel_id": 1489661500581871796
   },
   "auto_roles": {
     "humans": [],
