@@ -1,0 +1,23 @@
+{
+  "global_allowed_roles": [],
+  "apps": {
+    "mute": {
+      "allowed_roles": []
+    },
+    "warnings": {
+      "allowed_roles": []
+    },
+    "poo_goat": {
+      "allowed_roles": []
+    },
+    "welcome_leave": {
+      "allowed_roles": []
+    },
+    "birthdays": {
+      "allowed_roles": []
+    },
+    "roles": {
+      "allowed_roles": []
+    }
+  }
+}
