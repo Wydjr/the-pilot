@@ -6,7 +6,9 @@
   },
   "auto_roles": {
     "humans": [],
-    "bots": []
+    "bots": [
+      "1489676349965733943"
+    ]
   },
   "categories": {
     "test": {
