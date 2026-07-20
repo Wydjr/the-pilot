@@ -16,7 +16,7 @@
     "enabled": true,
     "channel_id": 1489661500581871796,
     "log_leave": true,
-    "log_kick": false,
+    "log_kick": true,
     "log_ban": false
   },
   "boost": {
