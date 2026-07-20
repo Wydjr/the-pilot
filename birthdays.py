@@ -20,7 +20,7 @@ from zoneinfo import ZoneInfo, available_timezones
 # GitHub Config & Defaults
 # =========================================================
 
-GITHUB_REPO = os.getenv("GITHUB_REPO", "saraargh/the-pilot")
+GITHUB_REPO = os.getenv("GITHUB_REPO", "wydr/the-pilot")
 GITHUB_FILE_PATH = "birthdays.json"
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 GITHUB_API_BASE = "https://api.github.com"
