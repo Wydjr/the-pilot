@@ -26,7 +26,13 @@
       "images": []
     }
   },
-  "birthdays": {},
+  "birthdays": {
+    "581896881555374081": {
+      "day": 11,
+      "month": 5,
+      "timezone": "bst"
+    }
+  },
   "state": {
     "announced_keys": [],
     "role_assigned_keys": []
