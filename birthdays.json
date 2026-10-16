@@ -1,6 +1,6 @@
 {
   "settings": {
-    "enabled": false,
+    "enabled": true,
     "announce": true,
     "post_hour": 0,
     "post_minute": 0,
