@@ -1,6 +1,6 @@
 {
   "welcome": {
-    "enabled": false,
+    "enabled": true,
     "welcome_channel_id": 1501170539077701795,
     "title": "",
     "description": "Welcome to Nexus AFC",
