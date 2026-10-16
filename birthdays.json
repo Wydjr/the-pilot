@@ -1,6 +1,6 @@
 {
   "settings": {
-    "enabled": true,
+    "enabled": false,
     "announce": true,
     "post_hour": 0,
     "post_minute": 0,
@@ -24,7 +24,9 @@
       "description": "{message}",
       "color": 16738740,
       "images": []
-    }
+    },
+    "channel_id": null,
+    "birthday_role_id": null
   },
   "birthdays": {
     "581896881555374081": {
