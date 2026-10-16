@@ -7,7 +7,7 @@
     "channels": {},
     "arrival_images": [],
     "bot_add": {
-      "enabled": false,
+      "enabled": true,
       "channel_id": null
     },
     "control_panel_message_id": null
