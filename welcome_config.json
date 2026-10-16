@@ -1,7 +1,7 @@
 {
   "welcome": {
     "enabled": false,
-    "welcome_channel_id": null,
+    "welcome_channel_id": 1501170539077701795,
     "title": "",
     "description": "",
     "channels": {},
